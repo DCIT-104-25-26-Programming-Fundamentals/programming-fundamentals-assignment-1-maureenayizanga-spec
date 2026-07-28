@@ -61,4 +61,5 @@ def get_grade(score):
 
 
 def main():
-    score = int(input("Enter student
+    score = int(input("Enter student)
+                      
